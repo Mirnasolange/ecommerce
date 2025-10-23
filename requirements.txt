@@ -1,0 +1,4 @@
+# Este proyecto es un frontend construido con Node.js y Vite.
+# No depende de bibliotecas de Python, pero si deseas gestionar el entorno
+# con un "venv" puedes instalar nodeenv para aislar una versión de Node.
+nodeenv==1.8.0
